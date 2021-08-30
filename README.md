@@ -1,6 +1,20 @@
 # messanger
 
+Send message to your friends, check messages on history's page.
+
+*Vue3
+*Composition API
+*Global State Management insted VUEX.
+*RWD
+
+
+WWW: https://lucid-yalow-423706.netlify.app/#/
+
+
+
 ## Project setup
+
+
 ```
 npm install
 ```
