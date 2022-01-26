@@ -8,7 +8,7 @@ Send message to your friends, check messages on history's page.
 *RWD
 
 
-WWW: https://lucid-yalow-423706.netlify.app/#/
+WWW: https://naughty-galileo-6893c1.netlify.app/#/
 
 
 
